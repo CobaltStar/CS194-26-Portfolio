@@ -6,6 +6,6 @@ by Archit Das
 
 ## Table of Contents
 
-* [Final Project](FinalProject\FinalProject.md)
+* [Final Project](FinalProject/FinalProject.md)
 
 
