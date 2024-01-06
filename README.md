@@ -6,6 +6,8 @@ by Archit Das
 
 ## Table of Contents
 
+* [Project 5 - Facial Keypoint Detection with Neural Networks](proj5/proj5.md)
+
 * [Final Project](FinalProject/FinalProject.md)
 
 
